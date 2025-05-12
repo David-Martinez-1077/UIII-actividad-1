@@ -1,16 +1,12 @@
 # myapp
 
-A new Flutter project.
+# Capturas
+- ![image](https://github.com/user-attachments/assets/7305ea18-8800-4eeb-9e78-f2ce80154d24)
 
-## Getting Started
+- ![image](https://github.com/user-attachments/assets/731aa77e-ca68-47a3-8463-68961247d44a)
 
-This project is a starting point for a Flutter application.
+- ![image](https://github.com/user-attachments/assets/7051a1df-6d7b-46d4-af09-d9fc5eeb101a)
 
-A few resources to get you started if this is your first Flutter project:
+- ![image](https://github.com/user-attachments/assets/2147eef1-e4cd-4ab2-b8a2-e15130017833)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
